@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Rounding">c30831b7db86c410a1dd7d8bbf9619c2</applet_launcher>
+        <order>30</order>
+        <section display_value="Create New Rounding Event">3cfbb5f7dbc6c410a1dd7d8bbf961929</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 21:42:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>34fbb5f7dbc6c410a1dd7d8bbf96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_34fbb5f7dbc6c410a1dd7d8bbf96192d</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:42:48</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_34fbb5f7dbc6c410a1dd7d8bbf96192d</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Rounding">c30831b7db86c410a1dd7d8bbf9619c2</applet_launcher><order>30</order><section display_value="Create New Rounding Event">3cfbb5f7dbc6c410a1dd7d8bbf961929</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2020-01-06 21:42:48</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>34fbb5f7dbc6c410a1dd7d8bbf96192d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_34fbb5f7dbc6c410a1dd7d8bbf96192d</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2020-01-06 21:42:48</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>217628917</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>38b43dffdb46c410a1dd7d8bbf9619d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 21:42:48</sys_created_on>
+        <sys_id>bcfbb5f7dbc6c410a1dd7d8bbf96192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f7ccf74b70000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:42:48</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>b4fbb5f765c6c41066498ddeac150c2e</update_guid>
+        <update_guid_history>b4fbb5f765c6c41066498ddeac150c2e:217628917</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 21:43:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>790eb81e0122445889fdcbb1b9567984</sys_id>
+        <sys_metadata>34fbb5f7dbc6c410a1dd7d8bbf96192d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_scope_delete display_value="">ed5b2e29a2d94dd896e717aba9eb7f90</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_34fbb5f7dbc6c410a1dd7d8bbf96192d</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_34fbb5f7dbc6c410a1dd7d8bbf96192d">bcfbb5f7dbc6c410a1dd7d8bbf96192e</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:43:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

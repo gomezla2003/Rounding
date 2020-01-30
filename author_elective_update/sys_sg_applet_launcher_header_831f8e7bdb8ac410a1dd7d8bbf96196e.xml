@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="DELETE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 23:06:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>831f8e7bdb8ac410a1dd7d8bbf96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rounding {{471f8e7bdb8ac410a1dd7d8bbf96196b}}</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_831f8e7bdb8ac410a1dd7d8bbf96196e</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 23:06:31</sys_updated_on>
+        <text>Rounding {{471f8e7bdb8ac410a1dd7d8bbf96196b}}</text>
+        <variables>471f8e7bdb8ac410a1dd7d8bbf96196b</variables>
+    </sys_sg_applet_launcher_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>sys_sg_applet_launcher_header_831f8e7bdb8ac410a1dd7d8bbf96196e</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header"><sys_sg_applet_launcher_header action="INSERT_OR_UPDATE"><sys_class_name>sys_sg_applet_launcher_header</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2020-01-06 23:06:31</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>831f8e7bdb8ac410a1dd7d8bbf96196e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rounding {{471f8e7bdb8ac410a1dd7d8bbf96196b}}</sys_name><sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope><sys_update_name>sys_sg_applet_launcher_header_831f8e7bdb8ac410a1dd7d8bbf96196e</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2020-01-06 23:06:31</sys_updated_on><text>Rounding {{471f8e7bdb8ac410a1dd7d8bbf96196b}}</text><variables>471f8e7bdb8ac410a1dd7d8bbf96196b</variables></sys_sg_applet_launcher_header></record_update>]]></payload>
+        <payload_hash>-592616263</payload_hash>
+        <record_name>Rounding {{471f8e7bdb8ac410a1dd7d8bbf96196b}}</record_name>
+        <reverted_from/>
+        <source>38b43dffdb46c410a1dd7d8bbf9619d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 23:06:31</sys_created_on>
+        <sys_id>cb1f8e7bdb8ac410a1dd7d8bbf96196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f7d1c19840000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 23:06:31</sys_updated_on>
+        <type>Header Title</type>
+        <update_guid>c31f8e7bea8ac410545263191c98106f</update_guid>
+        <update_guid_history>c31f8e7bea8ac410545263191c98106f:-592616263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:20:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_header">sys_sg_applet_launcher_header</sys_db_object>
+        <sys_id>b25ed4e1836d4e4499dd215e34774910</sys_id>
+        <sys_metadata>831f8e7bdb8ac410a1dd7d8bbf96196e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rounding {{471f8e7bdb8ac410a1dd7d8bbf96196b}}</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_scope_delete display_value="">ed5b2e29a2d94dd896e717aba9eb7f90</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_header_831f8e7bdb8ac410a1dd7d8bbf96196e</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_header_831f8e7bdb8ac410a1dd7d8bbf96196e">cb1f8e7bdb8ac410a1dd7d8bbf96196f</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:20:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

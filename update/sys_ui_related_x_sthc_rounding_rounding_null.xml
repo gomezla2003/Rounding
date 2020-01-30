@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_sthc_rounding_rounding" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Rounding - Default view" name="x_sthc_rounding_rounding" related_list="NULL" sys_domain="global" view="Default view">8e8cda86db16cc50a1dd7d8bbf961946</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_sthc_rounding_rounding_observations.instance</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2020-01-13 23:51:29</sys_created_on>
+            <sys_id>c68cda86db16cc50a1dd7d8bbf961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2020-01-13 23:51:29</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Rounding - Default view</calculated_name>
+            <filter/>
+            <name>x_sthc_rounding_rounding</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2020-01-13 23:51:29</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>8e8cda86db16cc50a1dd7d8bbf961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rounding - Default view</sys_name>
+            <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+            <sys_update_name>sys_ui_related_x_sthc_rounding_rounding_null</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2020-01-13 23:51:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

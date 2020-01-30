@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Rounding" max_length="40" name="x_sthc_rounding_rounding" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Details" max_length="3000" name="details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date &amp; Time" max_length="40" name="end_date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date &amp; Time" max_length="40" name="start_date_time" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="Work Notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

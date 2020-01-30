@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <last_registered_on>2020-01-29 03:56:26</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-07 03:42:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0b4ecff7dbce0810b3d8fcfa0c9619a5</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>2497873AA27AB226E9188C29B2911C8AC2363A1EB32322D7A26F8EDA0C5A31E0</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_0b4ecff7dbce0810b3d8fcfa0c9619a5</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-29 03:56:33</sys_updated_on>
+        <sys_user_id display_value="Louie Gomez">9dd736c46fd4710068ceda0cbb3ee476</sys_user_id>
+        <token>2497873AA27AB226E9188C29B2911C8AC2363A1EB32322D7A26F8EDA0C5A31E0</token>
+    </sys_push_notif_app_install>
+</record_update>

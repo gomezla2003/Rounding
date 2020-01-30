@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">86cbfdb7dbc6c410a1dd7d8bbf9619c2</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">0ecbfdb7dbc6c410a1dd7d8bbf9619bf</icon>
+        <label>Rounding Launcher Button Instance</label>
+        <location>top</location>
+        <name>Rounding Launcher Button Instance</name>
+        <order/>
+        <parent>c30831b7db86c410a1dd7d8bbf9619c2</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 21:42:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>06cbfdb7dbc6c410a1dd7d8bbf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rounding Launcher Button Instance</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_button_instance_06cbfdb7dbc6c410a1dd7d8bbf9619c5</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:42:04</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>sys_sg_button_instance_06cbfdb7dbc6c410a1dd7d8bbf9619c5</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">86cbfdb7dbc6c410a1dd7d8bbf9619c2</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">0ecbfdb7dbc6c410a1dd7d8bbf9619bf</icon><label>Rounding Launcher Button Instance</label><location>top</location><name>Rounding Launcher Button Instance</name><order/><parent>c30831b7db86c410a1dd7d8bbf9619c2</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2020-01-06 21:42:04</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>06cbfdb7dbc6c410a1dd7d8bbf9619c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rounding Launcher Button Instance</sys_name><sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope><sys_update_name>sys_sg_button_instance_06cbfdb7dbc6c410a1dd7d8bbf9619c5</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2020-01-06 21:42:04</sys_updated_on><table/></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>-1613411523</payload_hash>
+        <record_name>Rounding Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>38b43dffdb46c410a1dd7d8bbf9619d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 21:42:04</sys_created_on>
+        <sys_id>56cbfdb7dbc6c410a1dd7d8bbf9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f7ccecb360000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:42:04</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>4ecbfdb7a3c6c41062248aaccf4e62c6</update_guid>
+        <update_guid_history>4ecbfdb7a3c6c41062248aaccf4e62c6:-1613411523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 23:05:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>3ebbe5ad590948129c7ffbfa8d846824</sys_id>
+        <sys_metadata>06cbfdb7dbc6c410a1dd7d8bbf9619c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rounding Launcher Button Instance</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_scope_delete display_value="">ed5b2e29a2d94dd896e717aba9eb7f90</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_06cbfdb7dbc6c410a1dd7d8bbf9619c5</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_06cbfdb7dbc6c410a1dd7d8bbf9619c5">56cbfdb7dbc6c410a1dd7d8bbf9619c7</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 23:05:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

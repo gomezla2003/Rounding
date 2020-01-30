@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e947","Name":"icon-Knowledge","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"font"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 23:06:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f40fc27bdb8ac410a1dd7d8bbf961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_icon_f40fc27bdb8ac410a1dd7d8bbf961979</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 23:06:05</sys_updated_on>
+        <type>user</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>sys_sg_icon_f40fc27bdb8ac410a1dd7d8bbf961979</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e947","Name":"icon-Knowledge","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"font"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2020-01-06 23:06:05</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f40fc27bdb8ac410a1dd7d8bbf961979</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope><sys_update_name>sys_sg_icon_f40fc27bdb8ac410a1dd7d8bbf961979</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2020-01-06 23:06:05</sys_updated_on><type>user</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>1051794103</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>38b43dffdb46c410a1dd7d8bbf9619d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 23:06:05</sys_created_on>
+        <sys_id>b40fc27bdb8ac410a1dd7d8bbf96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f7d1bb3c00000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 23:06:05</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>bc0fc27b9b8ac410077465cb107bd47a</update_guid>
+        <update_guid_history>bc0fc27b9b8ac410077465cb107bd47a:1051794103</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 23:06:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>1c6632b67d41456fb14752a97d851d51</sys_id>
+        <sys_metadata>f40fc27bdb8ac410a1dd7d8bbf961979</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_scope_delete display_value="">ed5b2e29a2d94dd896e717aba9eb7f90</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_f40fc27bdb8ac410a1dd7d8bbf961979</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_f40fc27bdb8ac410a1dd7d8bbf961979">b40fc27bdb8ac410a1dd7d8bbf96197b</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 23:06:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

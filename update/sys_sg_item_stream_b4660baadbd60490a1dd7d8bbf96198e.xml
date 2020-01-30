@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Asset by QR">11b40766dbd60490a1dd7d8bbf9619bd</data_item>
+        <interleaved_field/>
+        <name>Asset QR Lookup Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:11:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b4660baadbd60490a1dd7d8bbf96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset QR Lookup Item Stream</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_item_stream_b4660baadbd60490a1dd7d8bbf96198e</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:11:19</sys_updated_on>
+        <table>x_ctv_sc_asset</table>
+    </sys_sg_item_stream>
+</record_update>

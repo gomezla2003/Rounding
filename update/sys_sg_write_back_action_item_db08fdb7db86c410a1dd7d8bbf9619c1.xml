@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (Rounding)</name>
+        <query_condition table="x_sthc_rounding_rounding">sys_idSTARTSWITH{{Rounding sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Rounding sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 21:25:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>db08fdb7db86c410a1dd7d8bbf9619c1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (Rounding)</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_db08fdb7db86c410a1dd7d8bbf9619c1</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:25:46</sys_updated_on>
+        <table>x_sthc_rounding_rounding</table>
+        <template>details={{Rounding details}}^end_date_time={{Rounding end_date_time}}^number={{Rounding number}}^start_date_time={{Rounding start_date_time}}^user={{Rounding user}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

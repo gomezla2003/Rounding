@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data_item/>
+        <destination_screen display_value="Staff Rounding">170831b7db86c410a1dd7d8bbf9619c8</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-06 21:42:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3cfbb5f7dbc6c410a1dd7d8bbf961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Rounding Event</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_item_section_3cfbb5f7dbc6c410a1dd7d8bbf961929</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:42:48</sys_updated_on>
+        <table/>
+        <title>Create New Rounding Event</title>
+        <visible_condition/>
+    </sys_sg_item_section>
+</record_update>

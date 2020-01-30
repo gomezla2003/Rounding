@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order>-1</condition_order>
+        <datasource_table>x_ctv_sc_asset</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Asset by Location lookup">645e036edb1a0490a1dd7d8bbf96197b</embedded_screen>
+        <item_view display_value="Asset by Location lookup Item View">645e036edb1a0490a1dd7d8bbf96196d</item_view>
+        <name>Asset by Location lookup Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:45:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f85e036edb1a0490a1dd7d8bbf961984</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Asset by Location lookup Master Item</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_master_item_f85e036edb1a0490a1dd7d8bbf961984</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:46:13</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

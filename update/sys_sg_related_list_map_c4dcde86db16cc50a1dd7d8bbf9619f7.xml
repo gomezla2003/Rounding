@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="INSERT_OR_UPDATE">
+        <context_field/>
+        <destination_screen display_value="My Rounding">7989bd3fdb86c410a1dd7d8bbf961983</destination_screen>
+        <related_list_screen display_value="Related List">75e11a77dbcac410a1dd7d8bbf961974</related_list_screen>
+        <relationship>x_sthc_rounding_rounding_observations.instance</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-13 23:52:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c4dcde86db16cc50a1dd7d8bbf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7989bd3fdb86c410a1dd7d8bbf961983</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_c4dcde86db16cc50a1dd7d8bbf9619f7</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-13 23:52:42</sys_updated_on>
+    </sys_sg_related_list_map>
+</record_update>

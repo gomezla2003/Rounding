@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="DELETE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:17:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>71b7836edbd60490a1dd7d8bbf961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities {{b9b7436edbd60490a1dd7d8bbf9619ed}}</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_71b7836edbd60490a1dd7d8bbf961916</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:17:07</sys_updated_on>
+        <text>Facilities {{b9b7436edbd60490a1dd7d8bbf9619ed}}</text>
+        <variables>b9b7436edbd60490a1dd7d8bbf9619ed</variables>
+    </sys_sg_applet_launcher_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7ba7aed978585d004bfab063d5850db9</instance_id>
+        <instance_name>shctest</instance_name>
+        <name>sys_sg_applet_launcher_header_71b7836edbd60490a1dd7d8bbf961916</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header"><sys_sg_applet_launcher_header action="INSERT_OR_UPDATE"><sys_class_name>sys_sg_applet_launcher_header</sys_class_name><sys_created_by>LGOMEZ</sys_created_by><sys_created_on>2020-01-15 16:17:07</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>71b7836edbd60490a1dd7d8bbf961916</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Facilities {{b9b7436edbd60490a1dd7d8bbf9619ed}}</sys_name><sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope><sys_update_name>sys_sg_applet_launcher_header_71b7836edbd60490a1dd7d8bbf961916</sys_update_name><sys_updated_by>LGOMEZ</sys_updated_by><sys_updated_on>2020-01-15 16:17:07</sys_updated_on><text>Facilities {{b9b7436edbd60490a1dd7d8bbf9619ed}}</text><variables>b9b7436edbd60490a1dd7d8bbf9619ed</variables></sys_sg_applet_launcher_header></record_update>]]></payload>
+        <payload_hash>1362933674</payload_hash>
+        <record_name>Facilities {{b9b7436edbd60490a1dd7d8bbf9619ed}}</record_name>
+        <reverted_from/>
+        <source>2b417acadbd6cc50a1dd7d8bbf961924</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:17:07</sys_created_on>
+        <sys_id>35b7836edbd60490a1dd7d8bbf961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa9fe86e90000001</sys_recorded_at>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:17:07</sys_updated_on>
+        <type>Header Title</type>
+        <update_guid>3db7836ebbd60490c5c69497c4267b17</update_guid>
+        <update_guid_history>3db7836ebbd60490c5c69497c4267b17:1362933674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:19:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_header">sys_sg_applet_launcher_header</sys_db_object>
+        <sys_id>9abd9b70fb92405e82487c3b7a405a69</sys_id>
+        <sys_metadata>71b7836edbd60490a1dd7d8bbf961916</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities {{b9b7436edbd60490a1dd7d8bbf9619ed}}</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_scope_delete display_value="">ed5b2e29a2d94dd896e717aba9eb7f90</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_header_71b7836edbd60490a1dd7d8bbf961916</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_header_71b7836edbd60490a1dd7d8bbf961916">35b7836edbd60490a1dd7d8bbf961918</sys_update_version>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:19:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Rounding">c30831b7db86c410a1dd7d8bbf9619c2</applet_launcher>
+        <order>3</order>
+        <quick_action_button display_value="Create Rounding Instance">59749377dbc60810a1dd7d8bbf96195a</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-07 04:10:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cea45bf7dbc60810a1dd7d8bbf961900</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_cea45bf7dbc60810a1dd7d8bbf961900</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-07 04:14:24</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>

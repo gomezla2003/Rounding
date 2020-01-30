@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>x_ctv_sc_asset_tag-11566,x_ctv_sc_state-3907,x_ctv_sc_model-22124,sys_class_name-3092,x_ctv_sc_model.x_ctv_sc_category-9764</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Right","studio_template_field_id":"E1","MaxLines":1,"Font":{"Size":15,"Weight":"regular"},"CellId":"x_ctv_sc_asset_tag","Id":11566}],"Id":42845},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"TextColor":"#4F5966","TextAlignment":"Right","studio_template_field_id":"E2","MaxLines":1,"Font":{"Weight":"bold","Size":14},"CornerRadius":2,"CellId":"x_ctv_sc_state","Id":3907}],"Id":42846}],"Id":12259},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E3","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"x_ctv_sc_model","Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Top":10},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"TextColor":"#7d8a8c","TextAlignment":"Left","studio_template_is_label":true,"studio_template_field_id":"E4","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${sys_class_name}","Id":3091},{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E4","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"sys_class_name","Id":3092}],"Id":34348},{"Type":"ViewGroup","Margin":{"Top":5},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"TextColor":"#7d8a8c","TextAlignment":"Left","studio_template_is_label":true,"studio_template_field_id":"E5","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${x_ctv_sc_model.x_ctv_sc_category}","Id":9763},{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E5","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"x_ctv_sc_model.x_ctv_sc_category","Id":9764}],"Id":34349}],"Id":12261}],"studio_card_id":"2382545973812300d396c8168bf6a736","Id":28090}</item_view_json>
+        <name>Asset QR Lookup Header Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:11:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>85660baadbd60490a1dd7d8bbf961994</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Asset QR Lookup Header Item View</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_item_view_85660baadbd60490a1dd7d8bbf961994</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:33:56</sys_updated_on>
+        <table>x_ctv_sc_asset</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Asset by QR</name>
+        <query_condition table="x_ctv_sc_asset">x_ctv_sc_asset_tag={{Asset Tag}}<item endquery="false" field="x_ctv_sc_asset_tag" goto="false" newquery="false" operator="=" or="false" value="{{Asset Tag}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2020-01-15 16:03:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>11b40766dbd60490a1dd7d8bbf9619bd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Asset by QR</sys_name>
+        <sys_package display_value="Rounding" source="x_sthc_rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Rounding">f4b43dffdb46c410a1dd7d8bbf9619d0</sys_scope>
+        <sys_update_name>sys_sg_data_item_11b40766dbd60490a1dd7d8bbf9619bd</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2020-01-15 16:12:30</sys_updated_on>
+        <table>x_ctv_sc_asset</table>
+    </sys_sg_data_item>
+</record_update>
